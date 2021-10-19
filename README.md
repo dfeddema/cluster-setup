@@ -8,9 +8,9 @@
 
 1) Login to http://console.redhat.com/openshift
 2) Select Cluster type "OSD" from the pull down menu and click "Create cluster"
-![create-cluster-1](console.png)
+![create-cluster-1](Images/Console.png)
 3) Click "Create Cluster" again
-![create-cluster-2](CreateOpenshiftCluster.png)
+![create-cluster-2](Images/CreateOpenshiftCluster.png)
 4)Click "AWS" 
 ![create-cluster-3](Images/AWSGoogle.png)
 5)Enter AWS account details (AWS access key ID and AWS secret access key)
