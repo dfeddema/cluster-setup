@@ -5,6 +5,11 @@
     - [Connect your ocm CLI](#connect-your-ocm-cli)
     - [Creating a new cluster](#creating-a-new-cluster)
 ## create cluster from OCM console
+
+1) Login to http://console.redhat.com/openshift
+2) Select Cluster type "OSD" from the pull down menu and click "Create cluster"
+
+
 ## create cluster from CLI
 ### download ocm cli for your operating system
 https://console.redhat.com/openshift/downloads
