@@ -12,7 +12,7 @@
 3) Click "Create Cluster" again
 ![create-cluster-2](CreateOpenshiftCluster.png)
 4)Click "AWS" 
-![create-cluster-3](AWSGoogle.png)
+![create-cluster-3](Images/AWSGoogle.png)
 ## create cluster from CLI
 ### download ocm cli for your operating system
 https://console.redhat.com/openshift/downloads
