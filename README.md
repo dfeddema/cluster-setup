@@ -5,7 +5,7 @@
     - [Connect your ocm cli](#connect-your-ocm-cli)
     - [Creating a new cluster](#creating-a-new-cluster)
 ## create cluster from OCM console
-## create cluster from the CLI
+## create cluster from CLI
 ### download ocm cli for your operating system
 https://console.redhat.com/openshift/downloads
 
