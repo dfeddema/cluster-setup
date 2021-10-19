@@ -13,6 +13,9 @@
 ![create-cluster-2](CreateOpenshiftCluster.png)
 4)Click "AWS" 
 ![create-cluster-3](Images/AWSGoogle.png)
+5)Enter AWS account details (AWS access key ID and AWS secret access key)
+![create-cluster-4](Images/AWSaccountdetails1.png)
+
 ## create cluster from CLI
 ### download ocm cli for your operating system
 https://console.redhat.com/openshift/downloads
