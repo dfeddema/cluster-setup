@@ -32,7 +32,7 @@ https://console.redhat.com/openshift/downloads
     CLUSTER_COMPUTE_MACHINE_TYPE="m5.xlarge"            # or "g4dn.xlarge" for GPUs
     CLUSTER_FLAVOUR="osd-4"
     CLUSTER_ETCD_ENCRYPTION=""               # leave blank ("") or, if enabled in account, use "--etcd-encryption"
-    CLUSTER_VERSION="4.7.18"
+    CLUSTER_VERSION="4.8.13"
     ```
 
 1. Test out your cluster settings before actually creating the cluster, by running with dry-run option set:
