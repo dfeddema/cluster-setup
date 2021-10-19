@@ -9,6 +9,7 @@
 1) Login to http://console.redhat.com/openshift
 2) Select Cluster type "OSD" from the pull down menu and click "Create cluster"
 ![create-cluster-1](console.png)
+3) Click "Create Cluster" again
 ![create-cluster-2](CreateOpenshiftCluster.png)
 
 ## create cluster from CLI
