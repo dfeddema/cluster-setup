@@ -96,3 +96,7 @@ https://console.redhat.com/openshift/downloads
 ## accessing new cluster
 1) Go to console.redhat.com and login 
 ![access-cluster-1](Images/RHHybridCloudConsole.png)
+2) Click on "Openshift" on the left-hand side of console.
+![access-cluster-2](Images/RHHybridCloudConsole2.png)
+3) Search for your cluster name in search bar
+![access-cluster-3](Images/RHHybridCloudConsole3.png)
