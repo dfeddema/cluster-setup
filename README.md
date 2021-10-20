@@ -98,5 +98,5 @@ https://console.redhat.com/openshift/downloads
 ![access-cluster-1](Images/RHHybridCloudConsole.png)
 2) Click on "Openshift" on the left-hand side of console.
 ![access-cluster-2](Images/RHHybridCloudConsole2.png)
-3) Search for your cluster name in search bar
+3) Search for your cluster name in the "Filter by name or ID" field.
 ![access-cluster-3](Images/RHHybridCloudConsole3.png)
