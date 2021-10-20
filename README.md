@@ -4,6 +4,7 @@
   - [Create Cluster from CLI](#create-cluster-from-CLI)
     - [Connect your ocm CLI](#connect-your-ocm-cli)
     - [Creating a new cluster](#creating-a-new-cluster)
+# accessing your new cluster (#accessing-new-cluster)
 ## create cluster from OCM web console
 
 1) Login to http://console.redhat.com/openshift
@@ -91,3 +92,6 @@ https://console.redhat.com/openshift/downloads
         --version ${CLUSTER_VERSION} \
         ${CLUSTER_NAME}
     ```
+## accessing new cluster
+1) Go to console.redhat.com and login 
+![access-cluster-1](Images/RHHybridCloudConsole.png)
